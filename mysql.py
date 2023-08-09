@@ -41,7 +41,7 @@ config = {
     'port': 3307,
     'user': 'root',
     'passwd': 'my-secret-pw',
-    'db': 'aml_onboarding_kyc_db'
+    'db': 'db_name'
 }
 
 connection = pymysql.connect(

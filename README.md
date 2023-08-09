@@ -6,6 +6,9 @@ Este script está diseñado para monitorear eventos de modificación de tablas (
 
 Antes de ejecutar este script, asegúrate de tener instalada la biblioteca `pymysqlreplication`. Puedes instalarla utilizando el siguiente comando:
 
+```bash
+pip install pymysqlreplication
+```
 
 ## Cómo funciona
 
